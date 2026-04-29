@@ -17,7 +17,7 @@ This is a REST API project built using Node.js and Express.
 ## Run Project Locally
 
 1. Clone the repository
-git clone https://github.com/aarzoo1234/secure-weather-api.git
+git clone https://github.com/rajgupta0807/xml-project
 
 2. Go to project folder
 cd secure-weather-api
